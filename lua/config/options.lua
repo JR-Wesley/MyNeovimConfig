@@ -4,6 +4,8 @@
 
 local opt = vim.opt
 
+opt.scrolloff = 10
+
 --opt.termguicolors = false
 opt.tabstop = 4
 
